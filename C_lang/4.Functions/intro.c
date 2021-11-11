@@ -7,5 +7,5 @@ void main()
 {
     int a = 10;
     int b = 20;
-    printf("max is %d ",max(a,b));
+    printf("max = %d ",max(a,b));
 }
